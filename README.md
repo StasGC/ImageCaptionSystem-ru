@@ -13,7 +13,7 @@ For the second model, the weights of two models were taken: **ruGPT3Small** and 
 
 Thus, 3 models were developed: ruGPT3Small trained on 2 and 10 epochs, ruGPT3Medium trained on 5 epochs. The **ruGPT3Small(2 epochs)** model worked best on tests, but ruGPT3Medium makes more eloquent captions.
 
-![](/readme_pics/example1.png)
+![](/readme_pics/example.png)
 
 ## Installing
 
