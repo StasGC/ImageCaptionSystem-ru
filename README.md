@@ -11,7 +11,7 @@ For the first model, weights were taken from the YOLOv3 neural network and train
 
 For the second model, the weights of two models were taken: **ruGPT3Small** and **ruGPT3Medium**. Then they were fine-tuned on a dataset of russion language, containing labels and capltion from them.
 
-Thus, 3 models were developed: ruGPT3Small trained on 2 and 10 epochs, ruGPT3Medium trained on 5 epochs. The **ruGPT3Small(2 epochs)** model worked best on tests, but ruGPT3Medium makes more eloquent captions.
+Thus, 3 models were developed: ruGPT3Small trained on 2 and 10 epochs, ruGPT3Medium trained on 5 epochs. Generally speaking, following conclusions can be made:**ruGPT3Small(2 epochs)** model worked best on tests, but ruGPT3Medium makes more eloquent captions.
 
 ![](/readme_pics/example.png)
 
