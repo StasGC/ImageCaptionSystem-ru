@@ -2,6 +2,10 @@
 
 This project was implemented as part of an internship at Odnoklassniki.
 
+Try it out on Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StasGC/ImageCaptionSystem-ru/blob/main/image_captioning.ipynb)
+
 The system makes captions to images for blind and visually impaired people. The architecture consists of two models:
 
 - [YOLOv3](https://github.com/experiencor/keras-yolo3) - state-of-the-art, real-time object detection system.
